@@ -1,0 +1,8 @@
+baseURL: "https://swinstall.github.io/boke/"
+languageCode: "zh-cn"
+title: "博客"
+pagination:
+  pagerSize: 10
+params:
+  author: "swinstall"
+  description: "Hugo + GitHub Pages"
